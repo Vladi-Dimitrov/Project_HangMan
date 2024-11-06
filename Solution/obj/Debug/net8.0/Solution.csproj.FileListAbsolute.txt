@@ -1,0 +1,15 @@
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\obj\Debug\net8.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\obj\Debug\net8.0\Solution.AssemblyInfoInputs.cache
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\obj\Debug\net8.0\Solution.AssemblyInfo.cs
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\obj\Debug\net8.0\Solution.csproj.CoreCompileInputs.cache
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\obj\Debug\net8.0\Solution.sourcelink.json
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\bin\Debug\net8.0\Solution.exe
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\bin\Debug\net8.0\Solution.deps.json
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\bin\Debug\net8.0\Solution.runtimeconfig.json
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\bin\Debug\net8.0\Solution.dll
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\bin\Debug\net8.0\Solution.pdb
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\obj\Debug\net8.0\Solution.dll
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\obj\Debug\net8.0\refint\Solution.dll
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\obj\Debug\net8.0\Solution.pdb
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\obj\Debug\net8.0\Solution.genruntimeconfig.cache
+C:\Users\User\Project_HangMan\Project_HangMan\Solution\obj\Debug\net8.0\ref\Solution.dll
